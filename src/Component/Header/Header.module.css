@@ -1,0 +1,32 @@
+.main{
+    display: flex;
+gap: 50px;
+    height: auto;
+    width: 100%;
+    align-items: center;
+    padding: 30px;
+    margin-top: 20px;
+    border-radius: 10px;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+}
+
+.icons{
+    display: flex;
+    gap: 15px;
+    
+}
+
+.btn{
+    height: 50px;
+    width: 122px;
+    color: white;
+    border-radius: 20px;
+    background-color: #F4694C;
+}
+
+.iconsone{
+    display: flex;
+    gap: 15px;
+}
